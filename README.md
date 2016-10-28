@@ -1,3 +1,4 @@
+
 1. 理解webpack
 
 ```js
@@ -52,7 +53,7 @@
   13. __dirname 开发期间，该行代码所在的目录
   14. process.cwd()：运行node的工作目录，可以使用  cd /d 修改工作目录。
   15. require.main.filename：用node命令启动的module的filename, 如 node xxx，这里的filename就是这个xxx。
-
+http://www.cnblogs.com/tugenhua0707/p/5576262.html
 
 
 
